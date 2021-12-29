@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @rolandoto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-rolandoto/rolandoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+midudev/README.md
+
+<img  src='https://avatars.githubusercontent.com/u/74669938?v=4'/>
+
+¡Hey 👋! Soy Rolando Guerrero 👨🏻‍💻
+Soy Desarrollador JavaScript Fronte-end con 10 años experiencia.
+
+
+
+
