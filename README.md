@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @rolandoto
 
-midudev/README.md
+Rolando/README.md
 
-<img  src='https://avatars.githubusercontent.com/u/74669938?v=4' />
+<img  src='https://avatars.githubusercontent.com/u/74669938?v=4' class='imagen' />
 
-<style type="text/css">
- img { border-radius: 150px; }
+<style >
+ .imagen {
+   border-radius:189px
+ }
 </style>
 
 
